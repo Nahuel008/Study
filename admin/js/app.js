@@ -9,3 +9,6 @@ $('nav ul.menu li').on('click', function(){
 	$('nav ul li').removeClass('active');
 	$(this).addClass('active');
 });
+$('.responsive').on('click',function(){
+	$('nav').toggleClass('showdown');
+});
