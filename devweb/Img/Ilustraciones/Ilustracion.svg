@@ -1,0 +1,98 @@
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 507.46 507.46"><defs><style>
+	.cls-1{fill:#f2cfc7;isolation:isolate;}
+	.cls-2{fill:#ea8457;}
+		svg{
+animation: show 2s 1 ease-in-out forwards; transform: translate(100%);
+	}@keyframes show{
+ 			to{
+ 				transform: translate(0);
+ 			}
+ 		}
+#escritorio{
+	transform: translateY(-100%);
+	animation: showesc 2s 1 ease-in-out forwards;
+	animation-delay: 1.5s;
+}@keyframes showesc{
+ 			to{
+ 				transform: translateY(0);
+ 			}
+ 		}
+		#Libros,#Monitor,#PC{
+			opacity: 0;
+			animation: opc ease-in-out 1 2s forwards;
+			animation-delay: 3.5s;
+		}
+		@keyframes opc{
+			to{
+				opacity: 1;
+			}
+		}
+	.cls-3{fill:#c66b47;}
+	.cls-4{fill:#3c3c3f;}
+	.cls-5{fill:#362719;}
+	.cls-6{fill:#2f2112;}
+	.cls-12,.cls-7{fill:#73594a;}
+	.cls-24,.cls-32,.cls-34,.cls-35,.cls-36,.cls-8{fill:none;}
+	.cls-8{stroke:#685146;}
+	.cls-12,.cls-32,.cls-34,.cls-35,.cls-36,.cls-8{stroke-miterlimit:10;}
+	.cls-9{fill:#5a4638;}
+	.cls-10{fill:#5b4637;}
+	.cls-11{fill:#624c3d;}
+	.cls-12{stroke:#5e483a;}
+	.cls-13{fill:#8c786f;}
+	.cls-14{fill:#594639;}
+	.cls-15{fill:#4c382b;}
+	.cls-16{fill:#bfb3af;}
+	.cls-17{fill:#ad5e42;}
+	.cls-18{fill:#91ba8a;}
+	.cls-19{fill:#729570;}
+	.cls-20{fill:#af7d46;}
+	.cls-21{fill:#edeceb;}
+	.cls-22{fill:#466144;}
+	.cls-23{fill:#f4af64;}
+	.cls-25{fill:#563f2b;}
+	.cls-26{fill:#4c3727;}
+	.cls-27{fill:#848280;}
+	.cls-28{fill:#3d2b1f;}
+	.cls-29{fill:#a59f9a;}
+	.cls-30{fill:#fefdff;}
+	.cls-31{fill:#e2e1e5;}
+	.cls-32{stroke:#000;}
+	.cls-32,.cls-34,.cls-35,.cls-36{stroke-width:3px;}
+	.cls-33{fill:#1e120d;}
+	.cls-34{stroke:url(#Degradado_sin_nombre_58);}
+	.cls-35{stroke:url(#Degradado_sin_nombre_58-2);}
+	.cls-36{stroke:url(#Degradado_sin_nombre_58-3);}
+	.cls-37{fill:#111;}
+	.cls-38{fill:#ccc;}
+	.cls-39{fill:#595959;}
+	.cls-40{fill:#ff8454;}
+</style>
+	<linearGradient id="Degradado_sin_nombre_58" x1="160.8" y1="146.56" x2="181.01" y2="146.56" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff"/><stop offset="0" stop-color="#ff1914"/><stop offset="0.49" stop-color="#00ff12"/><stop offset="0.74" stop-color="#00ff9d"/><stop offset="1" stop-color="blue"/><stop offset="1"/></linearGradient>
+	<linearGradient id="Degradado_sin_nombre_58-2" x1="160.87" y1="126.1" x2="181.09" y2="126.1" xlink:href="#Degradado_sin_nombre_58"/>
+	<linearGradient id="Degradado_sin_nombre_58-3" x1="160.8" y1="105.65" x2="181.01" y2="105.65" xlink:href="#Degradado_sin_nombre_58"/></defs>
+	<title>Ilustracion</title>
+	<circle id="Elipse_1" data-name="Elipse 1" class="cls-1" cx="253.73" cy="253.73" r="253.73"/>
+	<circle class="cls-2" cx="259.17" cy="248.73" r="190.46"/>
+	<g id="escritorio">
+	<path class="cls-3" d="M361.37,461q-.19-71-.4-142h61.4l1.35,142Z" transform="translate(-52.27 -142.27)"/><path class="cls-4" d="M261.65,366.21c31.47,1.31,42,7.32,43.92,14,2,6.93-5.8,12.32-2.89,18.17,4.87,9.78,29.75.56,41.9,13.79a24.2,24.2,0,0,1,5.77,13.25c-1.36.48-3.25.89-4.7,0-3-1.83-.92-7.14-2.25-10.9-4-11.38-37.48-4.18-42.64-15.5-2.73-6,5.13-11.2,3.1-18-2.81-9.3-21.61-12.33-42.21-12.93Z" transform="translate(-52.27 -142.27)"/>
+	<path class="cls-5" d="M261.52,319.05H177.94v67.17l83.71-.16Z" transform="translate(-52.27 -142.27)"/>
+	<path class="cls-6" d="M188.41,379.28l-3.27-60.23-7.2.16v67Z" transform="translate(-52.27 -142.27)"/>
+	<polygon id="Borde_Puerta" data-name="Borde Puerta" class="cls-7" points="118.61 341.85 212.67 341.85 212.67 268.11 212.67 241.55 208.5 241.55 208.5 243.95 118.61 243.95 118.61 341.85"/>
+	<path id="Anclaje" class="cls-8" d="M177.94,319.43h0Z" transform="translate(-52.27 -142.27)"/>
+	<path id="suelo_libros" data-name="suelo libros" class="cls-9" d="M260.61,378.52H188.37l-10.43,7.7h82.83a22.8,22.8,0,0,0-.16-7.7Z" transform="translate(-52.27 -142.27)"/>
+	<path id="Borde_redondo_puerta" data-name="Borde redondo puerta" class="cls-7" d="M260.77,386.22c-.11-1.6-.18-3.33-.19-5.17,0-2.1.07-4.05.19-5.85a4.55,4.55,0,0,1,2.24-.46,4.43,4.43,0,0,1,1.58.4c.11,1.56.21,3.18.27,4.86.08,2.17.1,4.25.08,6.22Z" transform="translate(-52.27 -142.27)"/>
+	<path class="cls-10" d="M429.53,409.52H265v44.25l164.81-1.6-.22,8.87,20.1,20.3h3.68l-1.55-162.45h-3l-20.52.16Z" transform="translate(-52.27 -142.27)"/>
+	<path class="cls-7" d="M448.77,318.89l.86,165.23h3.68q-.76-82.62-1.55-165.23Z" transform="translate(-52.27 -142.27)"/>
+	<path class="cls-11" d="M448.77,318.89l-20.52.16,1.28,142,20.1,23.08Z" transform="translate(-52.27 -142.27)"/>
+	<rect id="Puerta" class="cls-12" x="123.05" y="245.23" width="87.44" height="91.38"/>
+	<polygon id="Pared_Izq_y_SUp" data-name="Pared Izq y SUp" class="cls-7" points="117.68 159.78 117.68 176.94 118.59 176.94 118.59 243.95 125.67 243.95 125.67 176.78 401.04 176.78 401.04 159.78 245.28 159.78 117.68 159.78"/>
+	<rect id="Mango" class="cls-13" x="149.34" y="253.73" width="51.78" height="1.98"/>
+	<path class="cls-14" d="M428.74,373.13q-.12-13.67-.25-27.33l20.32-20.22L449,355Z" transform="translate(-52.27 -142.27)"/>
+	<path class="cls-15" d="M361.29,452.83V409.52H423v42.71Z" transform="translate(-52.27 -142.27)"/>
+	<path id="Anclaje-2" data-name="Anclaje" class="cls-8" d="M451.77,319.36h0Z" transform="translate(-52.27 -142.27)"/><circle class="cls-16" cx="198.38" cy="254.85" r="0.5"/>
+	<circle class="cls-16" cx="152.16" cy="254.72" r="0.5"/>
+	<path class="cls-16" d="M238.59,397.43H217.91a1,1,0,0,1-.12-.41.87.87,0,0,1,.12-.47h20.68l.18.47Z" transform="translate(-52.27 -142.27)"/>
+	<polygon class="cls-17" points="212.67 341.85 397.36 341.85 377.26 318.77 212.68 318.77 212.67 341.85"/>
+	</g>
+	<g id="Libros"><path class="cls-18" d="M186.15,336.06l5,49.2a13.62,13.62,0,0,1-3.78.45,13.35,13.35,0,0,1-3.18-.45l-4.77-49.2a24,24,0,0,0,3.34.23A24.35,24.35,0,0,0,186.15,336.06Z" transform="translate(-52.27 -142.27)"/><path class="cls-19" d="M190.4,334.53,192,345.44l-4.69,1.12q-.59-5.25-1.18-10.5Z" transform="translate(-52.27 -142.27)"/><path class="cls-20" d="M192,345.44a13.72,13.72,0,0,0,1.41.1,12.93,12.93,0,0,0,1.77-.1l4.71,22.71q1.5,7.19,3,14.37a4.79,4.79,0,0,1-1,1.55,6.77,6.77,0,0,1-1.65,1.19,13.19,13.19,0,0,1-2.63.49,14.56,14.56,0,0,1-2.87,0q-3.75-19.59-7.49-39.17Z" transform="translate(-52.27 -142.27)"/><path class="cls-21" d="M187.22,346.54c0,.13.88.24,4.8.15,2.61-.89,3.22-1.18,3.18-1.25s-.83.16-2,.09a6.58,6.58,0,0,1-1.18-.18l-3.09.7C187.49,346.39,187.21,346.47,187.22,346.54Z" transform="translate(-52.27 -142.27)"/><path class="cls-22" d="M191.16,385.26l3.06-2.09q-3.5-18.35-7-36.69Q189.19,365.86,191.16,385.26Z" transform="translate(-52.27 -142.27)"/><path class="cls-23" d="M192,346.69q2.58,10.57,4.89,21.63,1.78,8.6,3.3,16.94a13,13,0,0,1-2.73.5,14.21,14.21,0,0,1-2.77-.05q-3.75-19.59-7.49-39.17Z" transform="translate(-52.27 -142.27)"/><path class="cls-21" d="M184.24,334.52l-4.81,1.54a24,24,0,0,0,3.34.23,24.35,24.35,0,0,0,3.38-.23c.57-.23,1.42-.56,2.49-.92a6.89,6.89,0,0,0,1.79-.67c-.05-.13-1.52.19-3.57.2A20.64,20.64,0,0,1,184.24,334.52Z" transform="translate(-52.27 -142.27)"/><path class="cls-24" d="M184.24,334.52h0l-4.65,1.56a24.68,24.68,0,0,0,6.43,0c3.68-1.15,4.43-1.5,4.38-1.61s-1.35.17-3.39.2A21.46,21.46,0,0,1,184.24,334.52Z" transform="translate(-52.27 -142.27)"/><path class="cls-25" d="M199.65,348.93l9.16,36.49a18.15,18.15,0,0,1-3.73.76,17,17,0,0,1-3.19,0q-4.45-18.26-8.92-36.51a33.76,33.76,0,0,0,6.68-.76Z" transform="translate(-52.27 -142.27)"/><path class="cls-26" d="M203.73,347.3l2.54,8-4.56,1.37q-1-3.9-2.06-7.78Z" transform="translate(-52.27 -142.27)"/><path class="cls-27" d="M206.27,355.34c.41,0,.89,0,1.42-.09a17.49,17.49,0,0,0,1.74-.27q3.31,8.29,6.62,16.57,2.08,5.25,4.18,10.49a3.56,3.56,0,0,1-.9,1.28,6.8,6.8,0,0,1-1.53,1.08,17.81,17.81,0,0,1-2.57.67,18.59,18.59,0,0,1-2.86.28L201.6,356.71Z" transform="translate(-52.27 -142.27)"/><path class="cls-28" d="M208.81,385.42l2.86-1.92-10.08-26.85Q205.19,371,208.81,385.42Z" transform="translate(-52.27 -142.27)"/><path class="cls-21" d="M197.61,348l-4.64,1.7a33.76,33.76,0,0,0,6.68-.76c.53-.23,1.35-.58,2.39-1a8,8,0,0,0,1.72-.71c-.06-.09-1.5.31-3.53.55C199.13,347.93,198.22,348,197.61,348Z" transform="translate(-52.27 -142.27)"/><path class="cls-21" d="M201.6,356.71c0,.09.9.07,4.78-.43a14.56,14.56,0,0,0,3.05-1.3c-.05-.05-.81.21-2,.29a9.44,9.44,0,0,1-1.2,0c-.75.22-1.78.51-3,.88C201.85,356.56,201.58,356.65,201.6,356.71Z" transform="translate(-52.27 -142.27)"/><path class="cls-29" d="M206.38,356.28q3.47,7.67,6.7,15.73c1.67,4.18,3.24,8.32,4.72,12.39a16.91,16.91,0,0,1-2.67.68,17.08,17.08,0,0,1-2.76.27L201.6,356.71Z" transform="translate(-52.27 -142.27)"/><path class="cls-24" d="M197.61,348h0l-4.48,1.7c.87,0,1.91-.07,3.08-.2a31,31,0,0,0,3.3-.53c3.56-1.27,4.28-1.63,4.22-1.7s-1.33.28-3.35.53C199.22,347.93,198.26,348,197.61,348Z" transform="translate(-52.27 -142.27)"/></g><g id="Monitor"><path d="M361.24,290.31l-19.35,11.74h38.8Z" transform="translate(-52.27 -142.27)"/><rect x="305.65" y="136.85" width="6.74" height="13.84"/><path class="cls-30" d="M425.78,279.12c-20.38,1.2-41.93,1.89-64.54,1.89s-44.09-.7-64.44-1.89V221.05c20.18,1.19,41.51,1.88,63.87,1.9,22.82,0,44.56-.69,65.11-1.9Z" transform="translate(-52.27 -142.27)"/><rect class="cls-31" x="331.21" y="99.1" width="26.3" height="38.57"/><rect class="cls-31" x="264.84" y="99.1" width="53.33" height="22.98"/><rect class="cls-31" x="264.84" y="125.36" width="53.33" height="13.39"/><path class="cls-31" d="M425.78,231h-129v-8.49c20.66,1.1,42.38,1.73,65.09,1.72,22.27,0,43.6-.64,63.89-1.72Z" transform="translate(-52.27 -142.27)"/><path class="cls-32" d="M425.78,279.12c-20.38,1.2-41.93,1.89-64.54,1.89s-44.09-.7-64.44-1.89V221.05c20.18,1.19,41.51,1.88,63.87,1.9,22.82,0,44.56-.69,65.11-1.9Z" transform="translate(-52.27 -142.27)"/></g><g id="PC"><rect class="cls-33" x="152.66" y="84.49" width="37.18" height="75.3"/><circle class="cls-34" cx="170.9" cy="146.56" r="8.61"/><circle class="cls-35" cx="170.98" cy="126.1" r="8.61"/><circle class="cls-36" cx="170.9" cy="105.65" r="8.61"/><circle class="cls-37" cx="185.09" cy="88.15" r="1.74"/><circle class="cls-37" cx="181.21" cy="88.15" r="0.96"/><rect class="cls-38" x="155.19" y="87.46" width="2.89" height="1.39"/><rect class="cls-38" x="160.11" y="87.46" width="2.89" height="1.39"/><rect class="cls-38" x="164.67" y="87.46" width="2.89" height="1.39"/><rect x="155.35" y="88.27" width="2.55" height="0.23"/><rect x="160.28" y="88.27" width="2.55" height="0.23"/><rect x="164.81" y="88.27" width="2.55" height="0.23"/><path class="cls-39" d="M236.79,230a.18.18,0,0,1,.2,0c.15.12-.18.53,0,.81a.46.46,0,0,0,.38.19.5.5,0,0,0,.4-.19c.17-.28-.15-.7,0-.81a.17.17,0,0,1,.17,0c.25.11.35.81,0,1.18a.89.89,0,0,1-.61.25.86.86,0,0,1-.54-.25C236.45,230.84,236.53,230.15,236.79,230Z" transform="translate(-52.27 -142.27)"/><path class="cls-39" d="M237.32,230.57l.07,0,.09,0c.14-.5.14-.9,0-1a.15.15,0,0,0-.16,0C237.18,229.67,237.18,230.07,237.32,230.57Z" transform="translate(-52.27 -142.27)"/><path class="cls-39" d="M233.3,230.05a.42.42,0,0,1,.55.17.41.41,0,0,1-.17.57.45.45,0,0,1-.55-.16s.05,0,.05,0,0,0-.11,0,0,.11,0,.12,0,0,.06,0a.49.49,0,0,0,.62.2.47.47,0,0,0-.42-.85Z" transform="translate(-52.27 -142.27)"/></g><path id="Rectángulo_3" data-name="Rectángulo 3" class="cls-40" d="M140,524.92h69.58a6.36,6.36,0,0,1,6.36,6.36h0a6.36,6.36,0,0,1-6.36,6.36H140a6.36,6.36,0,0,1-6.36-6.36h0A6.36,6.36,0,0,1,140,524.92Z" transform="translate(-52.27 -142.27)"/><path id="Rectángulo_4" data-name="Rectángulo 4" class="cls-1" d="M160.18,541.38h74.07a4.12,4.12,0,0,1,4.11,4.12h0a4.11,4.11,0,0,1-4.11,4.11H160.18a4.12,4.12,0,0,1-4.12-4.11h0A4.13,4.13,0,0,1,160.18,541.38Z" transform="translate(-52.27 -142.27)"/><path id="Rectángulo_5" data-name="Rectángulo 5" class="cls-40" d="M188.61,555.6h74.07a4.11,4.11,0,0,1,4.11,4.11h0a4.11,4.11,0,0,1-4.11,4.12H188.61a4.12,4.12,0,0,1-4.12-4.12h0A4.12,4.12,0,0,1,188.61,555.6Z" transform="translate(-52.27 -142.27)"/><path id="Rectángulo_3-2" data-name="Rectángulo 3" class="cls-40" d="M490.81,528.29h0a6.36,6.36,0,0,1-6.36,6.36H414.87a6.35,6.35,0,0,1-6.35-6.36h0a6.35,6.35,0,0,1,6.35-6.36h69.58A6.36,6.36,0,0,1,490.81,528.29Z" transform="translate(-52.27 -142.27)"/><path id="Rectángulo_5-2" data-name="Rectángulo 5" class="cls-40" d="M439.94,556.72h0a4.12,4.12,0,0,1-4.12,4.12H361.76a4.12,4.12,0,0,1-4.12-4.12h0a4.11,4.11,0,0,1,4.12-4.11h74.06A4.11,4.11,0,0,1,439.94,556.72Z" transform="translate(-52.27 -142.27)"/><path id="Rectángulo_4-2" data-name="Rectángulo 4" class="cls-1" d="M468.37,542.51h0a4.11,4.11,0,0,1-4.12,4.11H390.19a4.11,4.11,0,0,1-4.12-4.11h0a4.11,4.11,0,0,1,4.12-4.12h74.06A4.11,4.11,0,0,1,468.37,542.51Z" transform="translate(-52.27 -142.27)"/></svg>
