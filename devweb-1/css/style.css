@@ -481,7 +481,7 @@ section.contacto{
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
-		background: rgba(231,185,185);
+		/* background: rgba(231,185,185); */
 		padding: 20px 0px;
 	}section.contacto h2{
 		color:#BA3500;
@@ -606,6 +606,46 @@ section.contacto .redes .link a i.ic:hover{
 		width: 100%;
 		height: 200px;
 		background: #444;
+		display: flex;
+		align-items: center;
+		justify-content: space-around;
+		flex-wrap: wrap;
+	}
+	footer ul li{
+		list-style: none;
+	}
+	footer .link{
+		width: 250px;
+	}
+	footer .link h3{
+		font-size: 15pt;
+		color:#FFFFFF;
+		font-weight: 400;
+	}
+	footer .link a{
+		font-weight: 600;
+		text-decoration: none;
+		color:#FFFFFF;
+	}
+	footer .redes{
+		width: 250px;
+	}
+	footer .redes a{
+		color:#FFFFFF;
+		text-decoration: none;
+		margin:0px 20px;
+	}
+	footer .contact{
+		color: #FFFFFF;
+		width: 250px;
+	}
+	footer .contact h3{
+		font-weight: 400;
+	}
+	footer .contact a{
+		font-weight: 100;
+		color: #fff;
+		text-decoration: none;
 	}
 	@media screen and (min-width: 750px){
 		.index{
